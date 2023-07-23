@@ -1,1 +1,8 @@
-body{ background-color: blue; }
+body{
+	margin: 0;
+} 
+
+header{
+	background-color: 259ba9;
+	text-align: center;
+}
