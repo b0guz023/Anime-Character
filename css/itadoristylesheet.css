@@ -1,22 +1,23 @@
 body{
 	margin: 0;
 	font-size: 20px;
+	background-color: #fff9d6;
 } 
 
 header{
-	background-color: #99a88c;
 	text-align: center;
 	padding-top: 20px;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
+	background-image: url(https://www.otaquest.com/wp-content/uploads/2020/08/JUJUTSUKAISEN.png);
+	background-size: 1900px, 350.6px;
 	}
 
 header h1{
 	color: white;
 	font-size: 40px;
+	background-color: #540B0E;
 }
 
-.h1{
-	font-family: "Jujutsu Kaisen";}
 
 header img{
 	border-radius: 170px;
@@ -24,6 +25,7 @@ header img{
 	border: 20px solid	white;
 	border-color: #9e2a2b;
 }
+
 
 main{
 	max-width: 800px;
@@ -37,13 +39,20 @@ main img{
 
 h2{
 	font-size: 35px;
+	font-family: 'Jujutsu Kaisen';
 }
 
 footer{
-	background-color: skyblue;
+	background-color: #e09f3e;
 	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
-p1{
+footer p{
+	margin: 0;
+}
+
+.p1{
 	text-align: center;
 }
