@@ -1,18 +1,41 @@
-body{margin: 0;} 
+body{
+	margin: 0;
+	font-size: 20px;
+} 
 
 header{
 	background-color: blue;
 	text-align: center;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 header h1{
 	color: white;
+	font-size: 50px;
 }
 
 header img{
 	border-radius: 170px;
 	width: 300px;
 	border: 20px solid	white;
+}
+
+main{
+	max-width: 800px;
+	margin:	0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+}
+
+footer{
+	background-color: skyblue;
+	text-align: center;
 }
