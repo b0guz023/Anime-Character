@@ -1,6 +1,18 @@
-body{background-color: red;} 
+body{margin: 0;} 
 
 header{
 	background-color: blue;
 	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid	white;
 }
