@@ -13,8 +13,10 @@ header{
 header h1{
 	color: white;
 	font-size: 40px;
-	font-family: 'Jujutsu Kaisen', cursive;
 }
+
+.h1{
+	font-family: "Jujutsu Kaisen";}
 
 header img{
 	border-radius: 170px;
